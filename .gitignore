@@ -1,0 +1,9 @@
+# Keep local configuration and downloaded assets out of the public repository.
+config.json
+.env
+.env.*
+*.log
+*.png
+*.jpg
+*.jpeg
+*.heic
